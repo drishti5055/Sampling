@@ -1,15 +1,15 @@
-## Sampling
+# Sampling
 Analyzing different sampling techniques
 This project compares the performance of 5 different machine learning models on 5 different sampling techniques for imbalanced datasets.
 
 ## The sampling techniques used in this project are:
-## Probability Sampling:
+### Probability Sampling:
 Simple-Random Sampling
 Systematic Sampling
 Cluster Sampling
 Stratified Sampling
 
-## Non-Probability Sampling:
+### Non-Probability Sampling:
 Convenience Sampling
 
 ## The machine learning models used in this project are:
