@@ -22,9 +22,9 @@ Convenience Sampling
 5. Naive Bayes Classifier
 
 ## The project is implemented in Python using the following libraries:
-numpy
-pandas
-scikit-learn
-imbalanced-learn
-seaborn
-mathplotlib
+- numpy
+- pandas
+- scikit-learn
+- imbalanced-learn
+- seaborn
+- mathplotlib
