@@ -1,4 +1,4 @@
-### Sampling
+## Sampling
 Analyzing different sampling techniques
 This project compares the performance of 5 different machine learning models on 5 different sampling techniques for imbalanced datasets.
 
